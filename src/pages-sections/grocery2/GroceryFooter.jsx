@@ -49,9 +49,7 @@ const GrocerFooter = () => {
         <Grid container spacing={6}>
           <Grid item md={6} sm={6} xs={12}>
             <Paragraph mb={2.5} color="grey.500" maxWidth="370px">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor
-              libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat
-              et lectus vel ut sollicitudin elit at amet.
+            Toya Guci Grocery BaZaar
             </Paragraph>
 
             <AppStore />
@@ -101,7 +99,7 @@ const customerCareLinks = [
 const iconList = [
   {
     icon: Facebook,
-    url: "https://www.facebook.com/UILibOfficial",
+    url: "",
   },
   {
     icon: Twitter,
@@ -109,7 +107,7 @@ const iconList = [
   },
   {
     icon: Youtube,
-    url: "https://www.youtube.com/channel/UCsIyD-TSO1wQFz-n2Y4i3Rg",
+    url: "",
   },
   {
     icon: Google,

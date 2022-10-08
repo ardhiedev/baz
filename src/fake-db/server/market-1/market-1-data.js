@@ -4,7 +4,7 @@ export const mainCarouselData = [
     title: "50% Off For Your First Shopping",
     photoUrl: "/assets/images/products/nike-black.png",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convalliss.",
+      "Toya Guci Grocery BaZaar",
     buttonText: "Shop Now",
     buttonLik: "#",
   },
@@ -12,7 +12,7 @@ export const mainCarouselData = [
     title: "50% Off For Your First Shopping",
     photoUrl: "/assets/images/products/nike-black.png",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convalliss.",
+      "Toya Guci Grocery BaZaar",
     buttonText: "Shop Now",
     buttonLik: "#",
   },

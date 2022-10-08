@@ -25,7 +25,7 @@ const Footer = () => {
               fontSize: "16px",
             }}
           />{" "}
-          & Care by &nbsp; <a href="https://ui-lib.com">UI Lib</a>
+          & Care by &nbsp; <a href="https://warsidi.web.id">Dev.web.id</a>
         </FlexBox>
 
         <FlexBox className="flex">
@@ -58,19 +58,19 @@ const Footer = () => {
 const iconList = [
   {
     icon: Facebook,
-    url: "https://www.facebook.com/UILibOfficial",
+    url: "",
   },
   {
     icon: Twitter,
-    url: "https://twitter.com/uilibofficial",
+    url: "",
   },
   {
     icon: Youtube,
-    url: "https://www.youtube.com/channel/UCsIyD-TSO1wQFz-n2Y4i3Rg",
+    url: "",
   },
   {
     icon: Instagram,
-    url: "https://www.instagram.com/uilibofficial/",
+    url: "",
   },
 ];
 export default Footer;

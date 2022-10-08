@@ -124,11 +124,11 @@ const Setting = () => {
             }}
           />
 
-          <H6 textAlign="center" mb={2}>
+          {/*<H6 textAlign="center" mb={2}>
             Bazaar Demos
-          </H6>
+          </H6>*/}
 
-          <FlexBox gap={2} flexWrap="wrap">
+          {/*<FlexBox gap={2} flexWrap="wrap">
             {demos.map((demo) => (
               <StyledAvatar
                 key={demo.id}
@@ -136,7 +136,7 @@ const Setting = () => {
                 onClick={() => push(demo.path)}
               />
             ))}
-          </FlexBox>
+            </FlexBox>*/}
         </BodyWrapper>
       </MainContainer>
     </ClickAwayListener>

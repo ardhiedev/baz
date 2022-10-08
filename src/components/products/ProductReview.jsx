@@ -93,7 +93,7 @@ const commentList = [
     rating: 4.7,
     date: "2021-02-14",
     comment:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Varius massa id ut mattis. Facilisis vitae gravida egestas ac account.",
+      "Toya Guci Grocery BaZaar",
   },
   {
     name: "Joe Kenan",
@@ -101,7 +101,7 @@ const commentList = [
     rating: 4.7,
     date: "2019-08-10",
     comment:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Varius massa id ut mattis. Facilisis vitae gravida egestas ac account.",
+      "Toya Guci Grocery BaZaar",
   },
   {
     name: "Jenifer Tulio",
@@ -109,7 +109,7 @@ const commentList = [
     rating: 4.7,
     date: "2021-02-05",
     comment:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Varius massa id ut mattis. Facilisis vitae gravida egestas ac account.",
+      "Toya Guci Grocery BaZaar",
   },
 ];
 const initialValues = {

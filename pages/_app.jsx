@@ -37,7 +37,7 @@ const App = ({ Component, pageProps }) => {
     <Fragment>
       <Head>
         <meta charSet="utf-8" />
-        <title>Bazaar - Next.js Ecommerce Template</title>
+        <title>Super Bazaar</title>
         <meta
           name="description"
           content="React Next.js ecommerce template. Build SEO friendly Online store, delivery app and Multivendor store"

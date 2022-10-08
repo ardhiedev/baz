@@ -58,7 +58,7 @@ const GrocerySection1 = () => {
   return (
     <Container>
       <H1 maxWidth={600} mx="auto">
-        Get your grocery delivery within 30 minutes
+        Belanja mudah pegiriman dalam 3 hari
       </H1>
 
       <Box className="searchBox">

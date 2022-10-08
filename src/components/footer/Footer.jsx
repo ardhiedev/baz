@@ -43,9 +43,7 @@ const Footer = () => {
                 </Link>
 
                 <Paragraph mb={2.5} color="grey.500">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Auctor libero id et, in gravida. Sit diam duis mauris nulla
-                  cursus. Erat et lectus vel ut sollicitudin elit at amet.
+                Toya Guci Grocery BaZaar
                 </Paragraph>
 
                 <AppStore />
@@ -156,15 +154,15 @@ const customerCareLinks = [
 const iconList = [
   {
     icon: Facebook,
-    url: "https://www.facebook.com/UILibOfficial",
+    url: "",
   },
   {
     icon: Twitter,
-    url: "https://twitter.com/uilibofficial",
+    url: "",
   },
   {
     icon: Youtube,
-    url: "https://www.youtube.com/channel/UCsIyD-TSO1wQFz-n2Y4i3Rg",
+    url: "",
   },
   {
     icon: Google,
@@ -172,7 +170,7 @@ const iconList = [
   },
   {
     icon: Instagram,
-    url: "https://www.instagram.com/uilibofficial/",
+    url: "",
   },
 ];
 export default Footer;

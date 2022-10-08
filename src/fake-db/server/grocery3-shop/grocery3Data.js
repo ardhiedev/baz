@@ -144,7 +144,7 @@ export const grocery3Products = [
 export const grocery3offerProducts = [
   {
     title: "Till 10 Dec, 2021",
-    discountOffer: "25% Special Off Today Only for Vegetables",
+    discountOffer: "Diskon 25% Khusus Hari Ini Hanya untuk Sayuran",
     imgUrl: "/assets/images/Groceries Shop/vagitable.png",
     buttonText: "Shop Now",
   },

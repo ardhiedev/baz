@@ -119,6 +119,7 @@ const ProductCard13 = (props) => {
     },
     []
   );
+  //console.log(title)
   return (
     <StyledBazaarCard hoverEffect={hoverEffect}>
       <ImageWrapper>

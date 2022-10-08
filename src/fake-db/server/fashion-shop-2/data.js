@@ -268,7 +268,7 @@ export const blogs = [
     title: "30% Off Coupon for Black Friday",
     img: "/assets/images/blogs/blog-1.jpg",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit.…",
+      "Toya Guci Grocery BaZaar",
   },
   {
     url: "#",
@@ -277,7 +277,7 @@ export const blogs = [
     title: "10% Discount for Cosmatics",
     img: "/assets/images/blogs/blog-2.jpg",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit.…",
+      "Toya Guci Grocery BaZaar",
   },
   {
     url: "#",
@@ -286,6 +286,6 @@ export const blogs = [
     title: " Buy 2 get 1 free Offer",
     img: "/assets/images/blogs/blog-3.jpg",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit.…",
+      "Toya Guci Grocery BaZaar",
   },
 ];

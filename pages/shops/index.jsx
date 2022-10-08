@@ -13,7 +13,7 @@ const ShopList = () => {
           mb: 6,
         }}
       >
-        <H2 mb={3}>All Shops</H2>
+        <H2 mb={3}>Semua produk</H2>
 
         <Grid container spacing={3}>
           {shopList.map((item, ind) => (
@@ -24,7 +24,7 @@ const ShopList = () => {
         </Grid>
 
         <FlexBetween flexWrap="wrap" mt={4}>
-          <Span color="grey.600">Showing 1-9 of 300 Shops</Span>
+          <Span color="grey.600">Lihat 1-9 of 300 Produk</Span>
           <Pagination
             count={shopList.length}
             variant="outlined"

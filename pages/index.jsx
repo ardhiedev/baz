@@ -17,7 +17,7 @@ import api from "utils/api/grocery1-shop"; // ==================================
 const Grocery1 = (props) => {
   return (
     <ShopLayout2 showNavbar={false} showTopbar={false}>
-      <SEO title="Grocery store template v1" />
+      <SEO title="ToyaGuci Bazaar" />
       <GrocerySection1 />
       <ServiceSection2
         id="grocery1Services"

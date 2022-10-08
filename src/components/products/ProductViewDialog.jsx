@@ -126,9 +126,7 @@ const ProductViewDialog = (props) => {
               </FlexBox>
 
               <Paragraph my={2}>
-                Sed egestas, ante et vulputate volutpat, eros pede semper est,
-                vitae luctus metus libero eu augue. Morbi purus liberpuro ate
-                vol faucibus adipiscing.
+               
               </Paragraph>
 
               <Divider

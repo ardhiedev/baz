@@ -58,8 +58,7 @@ const GrocerySection1 = () => {
                 Get Your Grocery Within 40 Minutes
               </H1>
               <H6 maxWidth="470px" color="inherit" fontWeight="400" mb={5}>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eu sed
-                pellentesque nibh tortor.
+              Toya Guci Grocery BaZaar
               </H6>
 
               <H5 fontSize="18px" fontWeight="700" mb={2.5}>

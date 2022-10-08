@@ -55,7 +55,7 @@ export const shopByCategory = [
 ];
 export const carouselCardList = [
   {
-    title: "25% Special Off Today Only for Vegetables",
+    title: "Diskon 25% Khusus Hari Ini Hanya untuk Sayuran",
     subtitle: "Till 10 Sept, 2021",
     imgUrl:
       "/assets/images/products/kisspng-organic-food-leaf-vegetable-fruit-rich-vegetables-5aa9f4d026ae09 1.png",
@@ -71,7 +71,7 @@ export const carouselCardList = [
     bgColor: "#FFF8E5",
   },
   {
-    title: "25% Special Off Today Only for Vegetables",
+    title: "Diskon 25% Khusus Hari Ini Hanya untuk Sayuran",
     subtitle: "Till 10 Sept, 2021",
     imgUrl:
       "/assets/images/products/kisspng-organic-food-leaf-vegetable-fruit-rich-vegetables-5aa9f4d026ae09 1.png",

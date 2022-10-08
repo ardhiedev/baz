@@ -30,8 +30,8 @@ const DiscountSection = () => {
           <Grid container>
             <Grid className="content" item sm={7} xs={12}>
               <Paragraph>Till 10 Dec, 2021</Paragraph>
-              <H1>25% Special Off Today</H1>
-              <H1>Only for Vegetables</H1>
+              <H1>Diskon 25% Khusus Hari Ini</H1>
+              <H1>Hanya untuk Sayuran</H1>
               <Button
                 color="primary"
                 variant="contained"
@@ -39,9 +39,10 @@ const DiscountSection = () => {
                   mt: 5,
                   fontSize: "12px",
                 }}
-                onClick={() => router.push("/sale-page-1")}
+                //onClick={() => router.push("/sale-page-1")}
+                onClick={() => router.push("/")}
               >
-                Shop Now
+                Belanja Sekarang
               </Button>
             </Grid>
 

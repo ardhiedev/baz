@@ -45,8 +45,7 @@ const CarouselCard2 = ({ imgUrl, productName, expireDate }) => {
           <H2>{productName}</H2>
 
           <Paragraph mt="0.3rem">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis
-            lobortis consequat eu, quam etiam at quis ut convallis.
+          Toya Guci Grocery BaZaar
           </Paragraph>
 
           <H4 mt="1.5rem" mb="0.3rem">
