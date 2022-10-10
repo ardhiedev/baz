@@ -1,81 +1,115 @@
 export const grocery1Navigation = [
   {
-    category: "Top Categories",
+    category: "Kategori",
     categoryItem: [
       {
-        icon: "Milk",
-        title: "Dariry & Eggs",
-        href: "/product/search/Dariry & Eggs",
+        icon: "Carrot",
+        title: "Semua Sayuran",
+        href: "/product/search/Semua Sayuran",
       },
       {
-        icon: "Breakfast",
-        title: "Breakfast",
-        href: "/product/search/Breakfast",
+        icon: "Apple",
+        title: "Semua Buah",
+        href: "/product/search/Semua Buah",
       },
       {
         icon: "Yogurt",
-        title: "Frozen",
-        href: "/product/search/Frozen",
+        title: "Semua Daging",
+        href: "/product/search/Semua Daging",
+      },
+      {
+        icon: "Yogurt",
+        title: "Semua Unggas",
+        href: "/product/search/Semua Unggas",
+      },
+      {
+        icon: "Yogurt",
+        title: "Seafood",
+        href: "/product/search/Seafood",
       },
       {
         icon: "Carrot",
-        title: "Vegetables",
-        href: "/product/search/vegetables",
+        title: "Sayuran",
+        href: "/product/search/Sayuran",
         child: [
           {
-            title: "Pears, apples, quinces",
-            href: "/product/search/Pears, apples, quinces",
+            title: "Organik",
+            href: "/product/search/Organik",
           },
           {
-            title: "Peaches, plums, apricots",
-            href: "/product/search/Peaches, plums, apricots",
+            title: "Hidroponik",
+            href: "/product/search/Hidroponik",
           },
           {
-            title: "Grapes",
-            href: "/product/search/Grapes",
+            title: "Konvensional",
+            href: "/product/search/Konvensional",
+          },
+          {
+            title: "Sayur Potong",
+            href: "/product/search/Sayur Potong",
           },
         ],
       },
       {
         icon: "Apple",
-        title: "Fruits & Vegetables",
-        href: "/product/search/Fruits & Vegetables",
+        title: "Buah",
+        href: "/product/search/Buah",
         child: [
           {
-            title: "Onion",
-            href: "/product/search/Onion",
+            title: "Import",
+            href: "/product/search/Import",
           },
           {
-            title: "Potato",
-            href: "/product/search/Potato",
+            title: "Local",
+            href: "/product/search/Local",
           },
           {
-            title: "Vegetable Pack",
-            href: "/product/search/Vegetable Pack",
+            title: "Buah Potong",
+            href: "/product/search/Buah Potong",
           },
         ],
       },
       {
         icon: "Milk",
-        title: "Dariry & Eggs",
-        href: "/product/search/Dariry & Eggs",
+        title: "Daging",
+        href: "/product/search/Daging",
         child: [
           {
-            title: "Pears, apples, quinces",
-            href: "/product/search/Pears, apples, quinces",
+            title: "Sapi",
+            href: "/product/search/Sapi",
           },
           {
-            title: "Peaches, plums, apricots",
-            href: "/product/search/Peaches, plums, apricots",
+            title: "Kerbau",
+            href: "/product/search/Kerbau",
           },
           {
-            title: "Grapes",
-            href: "/product/search/Grapes",
+            title: "Domba",
+            href: "/product/search/Domba",
+          },
+        ],
+      },
+      {
+        icon: "Carrot",
+        title: "Unggas",
+        href: "/product/search/Unggas",
+        child: [
+          {
+            title: "Ayam",
+            href: "/product/search/Ayam",
+          },
+          {
+            title: "Bebek",
+            href: "/product/search/Bebek",
+          },
+          {
+            title: "Burung",
+            href: "/product/search/Burung",
           },
         ],
       },
     ],
   },
+  /*
   {
     category: "Top Categories",
     categoryItem: [
@@ -172,7 +206,7 @@ export const grocery1Navigation = [
         href: "/product/search/Sauces & Jems",
       },
     ],
-  },
+  },*/
 ];
 export const grocery1ServiceList = [
   {
